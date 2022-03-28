@@ -13,8 +13,8 @@
 
 ## <h3>👩🏻‍🦰  &nbsp; Sobre mim 
     
-  <img align="right" height="200px" 
-       src="https://github-readme-stats.vercel.app/api?username=fernandaflx&count_private=true&show_icons=true&theme=rose_pine&hide_rank=true&custom_title=Minhas estatísticas"/>
+  <img align="right" height="210px" 
+       src="https://github-readme-stats.vercel.app/api?username=fernandaflx&count_private=true&show_icons=true&theme=rose_pine&hide_rank=true&custom_title=Minhas estatísticas&hide_border=true&include_all_commits=true"/>
 </h3>
 
 
@@ -35,8 +35,12 @@ Estou iniciando minha carreira na área, atualmente busco uma oportunidade de tr
   <img height="30px" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img height="30px" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img height="30px" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img height="30px" alt="styled componets" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img height="30px" alt="styled componets" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> <br><br>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaflx&exclude_repo=github-readme-stats,fernandaflx.github.io&langs_count=10&layout=compact&theme=rose_pine&hide_border=true" />
   </p>
+</p>
   
    ##
   
