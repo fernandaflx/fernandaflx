@@ -92,7 +92,7 @@ Estou iniciando minha carreira na área, atualmente busco uma oportunidade de tr
 
 ##
 
-<h3>Repositórios</h3><br>
+<!----  <h3>Repositórios</h3><br>
 
 <div>
 
@@ -109,6 +109,6 @@ Estou iniciando minha carreira na área, atualmente busco uma oportunidade de tr
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandaflx&repo=desafio-codenation&theme=rose_pine&hide_border=true"/>
  </a>
 </div>
-
+---->
 ##
   <pre><code><p align="center">Feito com 💜 por Fernanda Felix.</p></code></pre>
