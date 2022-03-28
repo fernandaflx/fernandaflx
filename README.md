@@ -91,4 +91,24 @@ Estou iniciando minha carreira na área, atualmente busco uma oportunidade de tr
 </details>
 
 ##
+
+<h3>Repositórios</h3><br>
+
+<div>
+
+<a href="https://github.com/fernandaflx/rocketseat-portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandaflx&repo=rocketseat-portfolio&theme=rose_pine&hide_border=true"/>
+ </a>
+  
+  <a href="https://github.com/fernandaflx/interface-instagram-dio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandaflx&repo=interface-instagram-dio&theme=rose_pine&hide_border=true"/>
+ </a>
+  
+  
+   <a href="https://github.com/fernandaflx/desafio-codenation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandaflx&repo=desafio-codenation&theme=rose_pine&hide_border=true"/>
+ </a>
+</div>
+
+##
   <pre><code><p align="center">Feito com 💜 por Fernanda Felix.</p></code></pre>
