@@ -13,8 +13,7 @@
 
 ## <h3>👩🏻‍🦰  &nbsp; Sobre mim 
     
-  <img align="right" height="210px" 
-       src="https://github-readme-stats.vercel.app/api?username=fernandaflx&count_private=true&show_icons=true&theme=rose_pine&hide_rank=true&custom_title=Minhas estatísticas&hide_border=true&include_all_commits=true"/>
+  <img align="right" height="210px" src="https://github-readme-stats.vercel.app/api?username=fernandaflx&count_private=true&show_icons=true&theme=rose_pine&hide_rank=true&custom_title=Minhas%20estatísticas&hide_border=true&include_all_commits=true"/>
 </h3>
 
 
@@ -30,12 +29,26 @@ Estou iniciando minha carreira na área, atualmente busco uma oportunidade de tr
 <br>
   
   <p align="center">
+  <img height="30px" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img height="30px" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img height="30px" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img height="30px" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img height="30px" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img height="30px" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img height="30px" alt="styled componets" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> <br><br>
+  <img height="30px" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img height="30px" alt="Styled Componets" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> 
+  
+  <img height="30px" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+  
+  <img height="30px" alt="Chakra UI" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/> 
+  
+  <img height="30px" alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/> 
+  
+  <img height="30px" alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> 
+   <img height="30px"alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+   <img height="30px"alt="Redux Saga" src="https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999"/>
+  
+  
+  <br><br>
   
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaflx&exclude_repo=github-readme-stats,fernandaflx.github.io&langs_count=10&layout=compact&theme=rose_pine&hide_border=true" />
