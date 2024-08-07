@@ -1,5 +1,5 @@
 <h1 align="center"> Olá, eu sou a Fernanda Felix! </h1>
-<p align="center">Desenvolvedora Front-End Jr. | São Paulo | BR</p>
+<p align="center">Desenvolvedora Front-End Pl. | São Paulo | BR</p>
 
 
 <p align='center'>
@@ -18,8 +18,10 @@
 
 
 <p align="left">Olá, tudo bem? Seja bem-vindo ao meu perfil e obrigada pela visita! </br><br>
-Me chamo Fernanda, tenho 25 anos e moro na cidade de São Paulo. Sou formada em Propaganda e Marketing, porém meu coração sempre foi da programação. 
-Estou iniciando minha carreira na área, atualmente busco uma oportunidade de trabalho que me permita aprimorar os meus conhecimentos e me desenvolver ainda mais como profissional.
+Me chamo Fernanda, tenho 27 anos e moro na cidade de São Paulo. Sou formada em Propaganda e Marketing, porém meu coração sempre foi da programação. 
+Sou uma desenvolvedora com habilidades em React.js e Next.js, e experiência no consumo de API REST. Possuo sólido conhecimento no uso de bibliotecas e frameworks para criar soluções web eficientes e escaláveis, valorizo muito a importância de criar interfaces de usuário atraentes e intuitivas. 
+<br><br>
+Constantemente procurando maneiras de melhorar minhas habilidades de desenvolvimento para criar soluções web de alta qualidade e sempre buscando expandir meus conhecimentos em tecnologias emergentes.
 <br><br><br>
 </p>
 
@@ -35,19 +37,19 @@ Estou iniciando minha carreira na área, atualmente busco uma oportunidade de tr
   <img height="30px" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img height="30px" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img height="30px" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img height="30px" alt="Context API" src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react"/>
   <img height="30px" alt="Styled Componets" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> 
-  
   <img height="30px" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
-  
   <img height="30px" alt="Chakra UI" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/> 
-  
   <img height="30px" alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/> 
-  
   <img height="30px" alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> 
-   <img height="30px"alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-   <img height="30px"alt="Redux Saga" src="https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999"/>
-  
-  
+  <img height="30px" alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"/> 
+  <img height="30px" alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/> 
+  <img height="30px" alt="React Hook Form" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white"/> 
+  <img height="30px" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img height="30px" alt="Redux Saga" src="https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999"/>
+  <img height="30px" alt="Firebase" src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/>
+
   <br><br>
   
   <p align="center">
@@ -87,8 +89,12 @@ Estou iniciando minha carreira na área, atualmente busco uma oportunidade de tr
   <details>
   <summary><h4>Experiências</h4></summary><br>
   
+- **💼 Desenvolvedora FrontEnd Pleno**<br>
+📆 2022 - atualmente<br>
+📍 Amreticas Tech - São Paulo, Brasil<br><br>
+
 - **💼 Desenvolvedora FrontEnd Junior**<br>
-📆 2021 - atualmente<br>
+📆 2021 - 2022<br>
 📍 Squadacomp - São Paulo, Brasil<br><br>
   
 - **💼 Assistente de Trade Marketing**<br>
