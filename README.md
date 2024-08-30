@@ -1,9 +1,9 @@
 ![header.](https://github.com/fernandaflx/fernandaflx/blob/main/profile-header.png?raw=true)
 
-<h1 align="center"> Olá, eu sou a Fernanda Felix! </h1>
-<p align="center">Desenvolvedora Front-End Pl. | São Paulo | BR</p>
-
-
+<h1 align="center"> Desenvolvedora Front-End Pl. | São Paulo | BR </h1>
+<p>
+</p>
+<br/><br/>
 <p align='center'>
   <a href="https://www.linkedin.com/in/fernanda-leite-felix/">
     <img height="25px" alt="My Likedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
