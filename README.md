@@ -1,3 +1,5 @@
+![header.](https://github.com/fernandaflx/fernandaflx/blob/main/header.png?raw=true)
+
 <h1 align="center"> Olá, eu sou a Fernanda Felix! </h1>
 <p align="center">Desenvolvedora Front-End Pl. | São Paulo | BR</p>
 
