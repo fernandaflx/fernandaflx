@@ -93,7 +93,7 @@ Constantemente procurando maneiras de melhorar minhas habilidades de desenvolvim
   
 - **💼 Desenvolvedora FrontEnd Pleno**<br>
 📆 2022 - atualmente<br>
-📍 Amreticas Tech - São Paulo, Brasil<br><br>
+📍 Americas Tech - São Paulo, Brasil<br><br>
 
 - **💼 Desenvolvedora FrontEnd Junior**<br>
 📆 2021 - 2022<br>
