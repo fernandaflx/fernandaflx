@@ -1,31 +1,24 @@
 ![header.](https://github.com/fernandaflx/fernandaflx/blob/main/profile-header.png?raw=true)
 
-<h1 align="center"> Desenvolvedora Front-End Pl. | São Paulo | BR </h1>
-<p>
-</p>
-<br/><br/>
-<p align='center'>
-  <a href="https://www.linkedin.com/in/fernanda-leite-felix/">
-    <img height="25px" alt="My Likedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:fernandaleitefelix@gmail.com">
-    <img height="25px" alt= "E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>        
-  </a>&nbsp;&nbsp;
-</p>
+<h1 align="center">Hi, there! Welcome to my profile ✨</h1>
 
-## <h3>👩🏻‍🦰  &nbsp; Sobre mim 
-    
-  <img align="right" height="210px" src="https://github-readme-stats.vercel.app/api?username=fernandaflx&count_private=true&show_icons=true&theme=rose_pine&hide_rank=true&custom_title=Minhas%20estatísticas&hide_border=true&include_all_commits=true"/>
-</h3>
+###
 
+<h2 align="left">👩🏻‍💻 About me</h2>
 
-<p align="left">Olá, tudo bem? Seja bem-vindo ao meu perfil e obrigada pela visita! </br><br>
-Me chamo Fernanda, tenho 27 anos e moro na cidade de São Paulo. Sou formada em Propaganda e Marketing, porém meu coração sempre foi da programação. 
-Sou uma desenvolvedora com habilidades em React.js e Next.js, e experiência no consumo de API REST. Possuo sólido conhecimento no uso de bibliotecas e frameworks para criar soluções web eficientes e escaláveis, valorizo muito a importância de criar interfaces de usuário atraentes e intuitivas. 
-<br><br>
-Constantemente procurando maneiras de melhorar minhas habilidades de desenvolvimento para criar soluções web de alta qualidade e sempre buscando expandir meus conhecimentos em tecnologias emergentes.
-<br><br><br>
-</p>
+###
+
+<h4 align="left">I'm a mid-level frontend developer based in São Paulo, Brasil 🇧🇷</h4>
+
+###
+
+<p align="left">
+  ✨ Creating bugs since 2021<br>
+  📚 I'm currently learning about clean code and clean architecture<br>
+  🎯 Goals: Increase my knowledge in developing highly scalable and functional applications<br>
+  🎲 Fun fact: I graduated in Advertising and Marketing in 2021, but in the same year I left my career to dedicate myself to my desire to become a developer</p>
+
+###
 
 
 ## <h3>Tecnologias</h3>
@@ -62,48 +55,48 @@ Constantemente procurando maneiras de melhorar minhas habilidades de desenvolvim
    ##
   
   <details>
-  <summary><h3>Informações profissionais</h3></summary>
+  <summary><h3>Professional information</h3></summary>
 
   <details>
-    <summary><h4>Educação</summary></h4><br>
+    <summary><h4>Education</summary></h4><br>
   
-**🎓 Formação Acadêmica**
+**🎓 Academic background**
   ##
-- 📖 Bacharelado em Propaganda e Marketing<br>
+- 📖 Bachelor's degree in Advertising and Marketing<br>
 📆 2017 - 2021<br>
 📍 UNIP - São Paulo, Brasil<br><br>
   
-**📚 Cursos Livres**
+**📚 Free courses**
     
   ##
     
 - 📖 Hiring Coders - Bootcamp FullStack<br>
-📆 Carga horária: 120 horas<br>
+📆 Course load: 120 hours<br>
 📍 Gama Academy<br><br>
  
 - 📖 Discover<br>
-📆 Carga horária: 120 horas<br>
+📆 Course load: 120 hours<br>
 📍 Rocketseat
  </details>
   
   ##
   
   <details>
-  <summary><h4>Experiências</h4></summary><br>
+  <summary><h4>Experience</h4></summary><br>
   
-- **💼 Desenvolvedora FrontEnd Pleno**<br>
+- **💼 Mid-level Frontend Developer**<br>
 📆 2022 - atualmente<br>
 📍 Americas Tech - São Paulo, Brasil<br><br>
 
-- **💼 Desenvolvedora FrontEnd Junior**<br>
+- **💼 Junior Frontend Developer**<br>
 📆 2021 - 2022<br>
 📍 Squadacomp - São Paulo, Brasil<br><br>
   
-- **💼 Assistente de Trade Marketing**<br>
+- **💼 Trade Marketing Assistant**<br>
 📆 2020 - 2021<br>
 📍 Seventrade Marketing - São Paulo, Brasil<br><br>
     
-- **💼 Estagiária de Trade Marketing**<br>
+- **💼 Trade Marketing Intern**<br>
 📆 2018 - 2019<br>
 📍 Compart Marketing e Tecnologia - São Paulo, Brasil<br><br>
     
@@ -111,25 +104,6 @@ Constantemente procurando maneiras de melhorar minhas habilidades de desenvolvim
   
 </details>
 
-##
 
-<!----  <h3>Repositórios</h3><br>
-
-<div>
-
-<a href="https://github.com/fernandaflx/rocketseat-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandaflx&repo=rocketseat-portfolio&theme=rose_pine&hide_border=true"/>
- </a>
-  
-  <a href="https://github.com/fernandaflx/interface-instagram-dio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandaflx&repo=interface-instagram-dio&theme=rose_pine&hide_border=true"/>
- </a>
-  
-  
-   <a href="https://github.com/fernandaflx/desafio-codenation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernandaflx&repo=desafio-codenation&theme=rose_pine&hide_border=true"/>
- </a>
-</div>
----->
 ##
   <pre><code><p align="center">Feito com 💜 por Fernanda Felix.</p></code></pre>
