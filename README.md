@@ -4,9 +4,9 @@
 
 ###
 
-<h2 align="left">👩🏻‍💻 About me</h2>
+<h3 align="left">👩🏻‍💻 About me</h2>
 
-###
+
 
 <h4 align="left">I'm a mid-level frontend developer based in São Paulo, Brasil 🇧🇷</h4>
 
@@ -52,58 +52,5 @@
   </p>
 </p>
   
-   ##
-  
-  <details>
-  <summary><h3>Professional information</h3></summary>
-
-  <details>
-    <summary><h4>Education</summary></h4><br>
-  
-**🎓 Academic background**
-  ##
-- 📖 Bachelor's degree in Advertising and Marketing<br>
-📆 2017 - 2021<br>
-📍 UNIP - São Paulo, Brasil<br><br>
-  
-**📚 Free courses**
-    
-  ##
-    
-- 📖 Hiring Coders - Bootcamp FullStack<br>
-📆 Course load: 120 hours<br>
-📍 Gama Academy<br><br>
- 
-- 📖 Discover<br>
-📆 Course load: 120 hours<br>
-📍 Rocketseat
- </details>
-  
-  ##
-  
-  <details>
-  <summary><h4>Experience</h4></summary><br>
-  
-- **💼 Mid-level Frontend Developer**<br>
-📆 2022 - atualmente<br>
-📍 Americas Tech - São Paulo, Brasil<br><br>
-
-- **💼 Junior Frontend Developer**<br>
-📆 2021 - 2022<br>
-📍 Squadacomp - São Paulo, Brasil<br><br>
-  
-- **💼 Trade Marketing Assistant**<br>
-📆 2020 - 2021<br>
-📍 Seventrade Marketing - São Paulo, Brasil<br><br>
-    
-- **💼 Trade Marketing Intern**<br>
-📆 2018 - 2019<br>
-📍 Compart Marketing e Tecnologia - São Paulo, Brasil<br><br>
-    
-</details>
-  
-</details>
-
-
 ##
   <pre><code><p align="center">Feito com 💜 por Fernanda Felix.</p></code></pre>
